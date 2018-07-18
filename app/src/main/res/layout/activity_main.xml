@@ -18,12 +18,22 @@
       android:layout_gravity="center"/>
 
     <Button
-      android:id="@+id/button_charge"
-      android:layout_width="wrap_content"
-      android:layout_height="wrap_content"
-      android:layout_marginBottom="16dp"
-      android:text="Charge"
-      android:layout_gravity="center"/>
+        android:id="@+id/button_charge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Charge"
+        android:layout_gravity="center"/>
+
+
+    <Button
+        android:id="@+id/button_dispense"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="Dispense"
+        android:enabled="false"
+        android:layout_gravity="center"/>
 
     <Button
       android:id="@+id/button_payment_settings"
