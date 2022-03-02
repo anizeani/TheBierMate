@@ -1,2 +1,2 @@
 # TheBierMate
-A project to control a bear dispenser and manage payment 
+A project to control a beer dispenser and manage payment 
